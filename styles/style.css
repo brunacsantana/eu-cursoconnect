@@ -1,0 +1,107 @@
+#tabela{
+	margin: 155px auto;
+}
+
+#disciplinas{
+	margin: 50px auto;
+}
+
+#tabelaFotos{
+	margin: 15px auto;
+}
+
+#tabelaDisciplinas{
+	margin: 50px auto;
+	width: 800px;
+}
+
+.title{
+	margin-top: 50px;
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	color: rgb(34, 32, 32);
+	text-shadow:rgb(40, 44, 46)
+}
+
+.titlePrincipal{
+	margin-top: 75px;
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	color: rgb(34, 32, 32);
+	text-shadow:rgb(40, 44, 46)
+}
+
+.celula{
+	font-family: monospace;
+	font-size: 15px;
+	padding: 40px 60px;
+	background-color: rgb(107, 156, 221);
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+.espacod{
+	padding: 0px 80px;
+}
+
+p{
+	font-family: monospace;
+	font-size: 16px;
+	text-align: center;
+	color: rgb(34, 32, 32);
+}
+
+.texto{
+	margin: 0px auto;
+	width: 1140px;
+	padding: 20px;
+}
+
+#linkEu{
+	margin: 0px 0px 0px 730px;
+}
+
+#linkBio{
+	margin: 0px 0px 0px 700px;
+}
+
+#back{
+	color: white;
+	background-color: rgb(34, 32, 32);
+	border-radius: 15px;
+	text-decoration: none;
+}
+
+.imageBiopark{
+	padding: 25px;
+	margin-left: 150px;
+	border-color: rgb(34, 32, 32);
+}
+
+.conteudo{
+	text-align: center;
+	font-family: monospace;
+	font-size: 17px;
+	padding: 0px 10px;
+	background-color: rgb(107, 156, 221);
+	text-decoration: none;	
+}
+
+.conteudob{
+	text-align: center;
+	font-family: monospace;
+	font-size: 17px;
+	padding: 0px 80px;
+	background-color: rgb(107, 156, 221);
+	text-decoration: none;
+}
